@@ -7,16 +7,15 @@
     --letraTitulo: 'Krub', sans-serif;
 }
 
-h1{
-    color:brown;
-}
-h2{
-    color: crimson;
-}
-
 .titulo{
+    text-align: center;
+    font-size: 3.8rem;
     color:var(--marron);
     font-family: 'Krub', sans-serif;
+}
+.titulo span {
+    font-size: 2rem;
+    color:plum;
 }
 
 .contenedor{
